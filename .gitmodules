@@ -1,0 +1,3 @@
+[submodule "packages/uniev-vscode"]
+	path = packages/uniev-vscode
+	url = git@github.com:uniev/uniev-vscode.git
